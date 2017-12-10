@@ -1,0 +1,30 @@
+/* -------------------------------------
+           Body Styles
+---------------------------------------*/
+
+body {
+  background-color: lightgrey;
+}
+
+.page_wrapper {
+  width: 100%;
+}
+
+/* -------------------------------------
+           Section Styles
+---------------------------------------*/
+
+#welcome_container {
+  width: 100%;
+  background-color: black;
+  color: lightgrey;
+}
+
+#text_container {
+  width: 100%;
+  margin: auto;
+}
+
+#headline {
+  margin: auto;
+}
