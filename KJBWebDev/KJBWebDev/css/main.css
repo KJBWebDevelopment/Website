@@ -1,0 +1,56 @@
+/* -------------------------------------
+           Body Styles
+---------------------------------------*/
+
+body {
+  /*background-color: lightgrey;
+  background-image: linear-gradient(orange, aqua, green, yellow);*/
+  color: black;
+}
+
+.container {
+  width: 100%;
+}
+
+.n-line {
+  display: block;
+}
+
+
+
+/* -------------------------------------
+           Section Styles
+---------------------------------------*/
+
+.list {
+  list-style-type: none;
+}
+
+
+/* -------------------------------------
+           Text Styles
+---------------------------------------*/
+
+.text-large {
+  font-size: 10em;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+.text-medium {
+  font-size: 3em;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.text-small {
+  font-size: 1.5em;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.text-xsmall {
+  font-size: 1em;
+  font-family: 'Quicksand', sans-serif;
+}
+
+/* -------------------------------------
+           Image Styles
+---------------------------------------*/
